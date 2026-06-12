@@ -32,6 +32,5 @@ public class PotionSystem : MonoBehaviour
         }
 
         cauldron.ClearCauldron();
-
     }
 }
